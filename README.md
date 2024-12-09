@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi👋,I am KANAKAM NIKITHA
+-----------------------------
+🔬About Me
+I'm a recent graduate with a passion for software development. I love learning new technologies and solving problems through code. I am constantly exploring different areas of tech, including web development, mobile apps, and automation.
+Although I am new to the professional world, I have been honing my skills through various personal projects, online courses, and contributing to open-source projects. I’m excited to continue learning and growing in this field!
 
-<!--
-**kanakamnikitha/kanakamnikitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️Skills & Technologies
+- Programming Languages:C, C++, JAVA
+- Hardware Technologies:embedded systemd(ARM)-->GPIO,UART PROTOCOL,SPI PROTOCOL,I2C PROTOCOL.
 
-Here are some ideas to get you started:
+🛠️Projects
+- [Project 1]:IOT BASED SMART SURVEILANCE ROBOT WITH LANDMINE DETECTION.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧Contact Me
+- Email: kanakamnikitha@gmail.com.
+- LinkedIn: www.linkedin.com/in/kanakam-nikitha-aa8421334.
